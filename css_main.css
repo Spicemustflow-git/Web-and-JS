@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(141, 160, 172);
+}
+
+div {
+    background-color: rgb(119, 155, 177);
+    margin: 0 auto;
+    height: auto;
+    width: auto;
+    text-align: center;
+    vertical-align:middle;
+}
